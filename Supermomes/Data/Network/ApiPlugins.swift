@@ -2,7 +2,7 @@
 //  ApiPlugins.swift
 
 //
-//  Created by Mintpot_Q on 11/6/20.
+//  Created by Dinh Le_Q on 11/6/20.
 //
 
 import Foundation

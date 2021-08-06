@@ -2,7 +2,7 @@
 //  UIViewController+Ext.swift
 //  Supermomes
 //
-//  Created by Mintpot on 8/6/21.
+//  Created by Dinh Le on 8/6/21.
 //
 
 import UIKit

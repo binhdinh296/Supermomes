@@ -1,7 +1,7 @@
 //
 //  BaseViewModel.swift
 //
-//  Created by Mintpot
+//  Created by Dinh Le
 //
 
 import Foundation

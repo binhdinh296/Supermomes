@@ -1,8 +1,8 @@
 //
 //  AppContainer.swift
-//  FitorProject
+//  SupermomesProject
 //
-//  Created by Mintpot on 4/7/21.
+//  Created by Dinh Le on 4/7/21.
 //
 
 import Foundation

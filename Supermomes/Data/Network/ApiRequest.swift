@@ -2,7 +2,7 @@
 //  ApiRequest.swift
 
 //
-//  Created by Mintpot on 3/24/21.
+//  Created by Dinh Le on 3/24/21.
 //
 
 import Foundation

@@ -1,7 +1,7 @@
 //
 //  ApiError.swift
 //
-//  Created by Mintpot on 11/6/20.
+//  Created by Dinh Le on 11/6/20.
 //
 
 import Foundation
